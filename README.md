@@ -1,1 +1,1 @@
-# Web_Storage
+Access browsers web storage using javaScript
